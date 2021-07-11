@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheKiba04
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning advanced React features
+- 🌱 I’m currently learning advanced React features and backend magic!
 - 📫 How to reach me:
     via email kroman0904@gmail.com
 
